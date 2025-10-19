@@ -15,7 +15,7 @@ import time
 
 r = sr.Recognizer()
 m = sr.Microphone()
-translated_language='pa'  # Hindi
+translated_language='hi'  # Hindi
 try:
     print("A moment of silence, please...")
     with m as source:
