@@ -218,9 +218,3 @@ This project is provided as-is. Add a proper license file if you'd like to open-
 * This README was generated with help from ChatGPT. Use it as a starting point — tweak commands and dependencies to match your actual project files.
 
 ---
-
-*If you'd like, I can:*
-
-* generate a `requirements.txt` from the packages in your project,
-* create a short demo GIF example command,
-* or add a proper `LICENSE` file (MIT/Apache/etc.).
