@@ -1,0 +1,6 @@
+Flask
+SpeechRecognition
+deep-translator
+gTTS
+PyAudio
+requests
